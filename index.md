@@ -11,3 +11,6 @@ Squidward|Patrick
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Fry patty
+- [x] Fish jellyfish
+- [ ] Introduce myself to the world
